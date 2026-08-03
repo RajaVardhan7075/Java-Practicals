@@ -23,6 +23,8 @@ This repository contains my Java practical programs covering fundamental program
 ## 🧠 Concepts Covered
 
 - Hello World Program
-- Variables
 - Primitive Data Types
-- Type Casting
+- Variables and Values
+- Size and Range of Data Types
+- Implicit and Explicit Type Casting
+- String Conversion
