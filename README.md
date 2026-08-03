@@ -8,9 +8,9 @@ This repository contains my Java practical programs covering fundamental program
 
 ## 📚 Practical Programs
 
-| No. | Practical |
-|:---:|-----------|
-| 01 | Hello World, Variables, Data Types & Type Casting (View Code) - ( https://onecompiler.com/java/44wwsjzmt ) |
+| No. | Practicals |         |
+|:---:|------------|---------|
+| 01 | Hello World, Variables, Data Types & Type Casting | https://onecompiler.com/java/44x5c58tq |
 
 ---
 
