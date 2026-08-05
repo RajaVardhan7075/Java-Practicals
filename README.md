@@ -11,6 +11,7 @@ This repository contains my Java practical programs covering fundamental program
 | No. | Practicals |         |
 |:---:|------------|---------|
 | 01 | Hello World, Variables, Data Types & Type Casting | https://onecompiler.com/java/44x5c58tq |
+| 02 | Operators in java | https://onecompiler.com/java/44xbwuqg4 |
 
 ---
 
@@ -22,9 +23,14 @@ This repository contains my Java practical programs covering fundamental program
 
 ## 🧠 Concepts Covered
 
-- Hello World Program
 - Primitive Data Types
 - Variables and Values
 - Size and Range of Data Types
 - Implicit and Explicit Type Casting
 - String Conversion
+- Arithmetic Operators
+- Relational Operators
+- Logical Operators
+- Bitwise Operators
+- Assignment Operators
+- Unary Operators
