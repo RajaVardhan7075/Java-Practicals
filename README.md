@@ -13,6 +13,7 @@ This repository contains my Java practical programs covering fundamental program
 | 01 | Hello World, Variables, Data Types & Type Casting | https://onecompiler.com/java/44x5c58tq |
 | 02 | Operators in java | https://onecompiler.com/java/44xbwuqg4 |
 | 03 | Conditional Statements | https://onecompiler.com/java/44xezcjjt |
+| 04 | Looping Constructs | https://onecompiler.com/java/44xtqf3rs |
 
 ---
 
@@ -39,3 +40,7 @@ This repository contains my Java practical programs covering fundamental program
 - if-else Statement
 - Nested if-else
 - switch Statement
+- Looping Constructs
+- while Loop
+- do-while Loop
+- for Loop
