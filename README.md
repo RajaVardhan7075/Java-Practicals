@@ -6,17 +6,6 @@ This repository contains my Java practical programs covering fundamental program
 
 ---
 
-## 📚 Practical Programs
-
-| No. | Practicals |         |
-|:---:|------------|---------|
-| 01 | Hello World, Variables, Data Types & Type Casting | https://onecompiler.com/java/44x5c58tq |
-| 02 | Operators in java | https://onecompiler.com/java/44xbwuqg4 |
-| 03 | Conditional Statements | https://onecompiler.com/java/44xezcjjt |
-| 04 | Looping Constructs | https://onecompiler.com/java/44xtqf3rs |
-
----
-
 ## 🛠️ Language Used
 
 - Java
@@ -25,22 +14,75 @@ This repository contains my Java practical programs covering fundamental program
 
 ## 🧠 Concepts Covered
 
+### 01 — Hello World, Variables, Data Types & Type Casting
+- Hello World Program
+- Variables
 - Primitive Data Types
-- Variables and Values
-- Size and Range of Data Types
-- Implicit and Explicit Type Casting
-- String Conversion
+- Type Casting
+
+### 02 — Operators
 - Arithmetic Operators
 - Relational Operators
 - Logical Operators
 - Bitwise Operators
 - Assignment Operators
 - Unary Operators
-- if Statement
+
+### 03 — Conditional Statements
 - if-else Statement
 - Nested if-else
 - switch Statement
-- Looping Constructs
+
+### 04 — Looping Constructs
 - while Loop
 - do-while Loop
 - for Loop
+
+### 05 — Methods and Recursion
+- Methods
+- Method Parameters
+- Return Values
+- Recursion
+
+### 06 — Arrays
+- One-Dimensional Arrays
+- Array Input and Output
+- Array Traversal
+- Sum of Array Elements
+- Finding Largest Element
+
+### 07 — String Handling
+- String
+- String Methods
+- String Manipulation
+
+### 08 — String Handling with StringBuffer and StringBuilder
+- String
+- StringBuffer
+- StringBuilder
+- append()
+- insert()
+- replace()
+- delete()
+- reverse()
+
+### 09 — String Programs
+- String Input
+- String Traversal
+- String Reversal
+- Palindrome Checking
+- charAt()
+- equalsIgnoreCase()
+
+### 10 — Constructors
+- Constructors
+- Default Constructor
+- Parameterized Constructor
+- Object Creation
+
+### 11 — Encapsulation
+- Encapsulation
+- Data Hiding
+- Private Data Members
+- Getter Methods
+- Setter Methods
